@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/codestore/ncibi/WebBackend/!svn/ver/793/WebServices/ws-client/trunk
+END
+mdep
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/codestore/ncibi/WebBackend/!svn/ver/654/WebServices/ws-client/trunk/mdep
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/codestore/ncibi/WebBackend/!svn/ver/747/WebServices/ws-client/trunk/pom.xml
+END

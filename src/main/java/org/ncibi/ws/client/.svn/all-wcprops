@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/WebBackend/!svn/ver/781/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/client
+END
+ServerUrlConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/codestore/ncibi/WebBackend/!svn/ver/781/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/client/ServerUrlConfiguration.java
+END
+BeanXMLWebServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/WebBackend/!svn/ver/666/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/client/BeanXMLWebServiceClient.java
+END
+WebServiceUrlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/codestore/ncibi/WebBackend/!svn/ver/781/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/client/WebServiceUrlBuilder.java
+END

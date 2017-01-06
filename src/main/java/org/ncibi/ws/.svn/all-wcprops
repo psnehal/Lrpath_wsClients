@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/codestore/ncibi/WebBackend/!svn/ver/784/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws
+END
+HttpPostRequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codestore/ncibi/WebBackend/!svn/ver/666/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/HttpPostRequestMethod.java
+END
+WebServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/WebBackend/!svn/ver/665/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/WebServiceProxy.java
+END
+DefaultHttpRequestRetryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/WebBackend/!svn/ver/432/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/DefaultHttpRequestRetryHandler.java
+END
+AbstractPostRequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/WebBackend/!svn/ver/666/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/AbstractPostRequestMethod.java
+END
+HttpPostMultiPartFormRequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/WebBackend/!svn/ver/784/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/HttpPostMultiPartFormRequestMethod.java
+END
+HttpGetRequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/codestore/ncibi/WebBackend/!svn/ver/435/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/HttpGetRequestMethod.java
+END
+ExecutableHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codestore/ncibi/WebBackend/!svn/ver/665/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/ExecutableHttpRequest.java
+END
+HttpRequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/WebBackend/!svn/ver/666/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/HttpRequestType.java
+END
+BeanXMLResponseHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/codestore/ncibi/WebBackend/!svn/ver/673/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/BeanXMLResponseHandlerFactory.java
+END
+AbstractHttpRequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/WebBackend/!svn/ver/772/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/AbstractHttpRequestMethod.java
+END

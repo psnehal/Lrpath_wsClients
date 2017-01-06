@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/codestore/ncibi/WebBackend/!svn/ver/725/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/util
+END
+JoinUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/codestore/ncibi/WebBackend/!svn/ver/435/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/util/JoinUtils.java
+END
+NameValuePairUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/codestore/ncibi/WebBackend/!svn/ver/725/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/util/NameValuePairUtil.java
+END
+UrlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/WebBackend/!svn/ver/435/WebServices/ws-client/trunk/src/main/java/org/ncibi/ws/util/UrlBuilder.java
+END
